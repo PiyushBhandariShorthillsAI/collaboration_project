@@ -1,2 +1,2 @@
 def greet():
-    return "Hello from Person A"
+    return "Hi from Person A"
